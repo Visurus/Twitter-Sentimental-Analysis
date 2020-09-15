@@ -10,8 +10,4 @@ There are some general library requirements for the project and some which are s
 * `numpy`
 * `scikit-learn`
 * `scipy`
-* `nltk`
 
-The library requirements specific to some methods are:
-* `keras` with `TensorFlow` backend for Logistic Regression, MLP, RNN (LSTM), and CNN.
-* `xgboost` for XGBoost.
